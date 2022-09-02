@@ -1,5 +1,15 @@
 # QUICK SORT
 
+'''
+TIME COMPLEXITY
+Best	-> O(n*log n)
+Worst	-> O(n^2)
+Average	-> O(n*log n)
+
+SPACE COMPLEXITY
+O(log n)
+'''
+
 def partition(a,lo,hi):
     
     i = lo-1
