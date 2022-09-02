@@ -1,3 +1,14 @@
+# COUNT SORT 
+
+'''
+TIME COMPLEXITY
+Best	O(n+k)
+Worst	O(n+k)
+Average	O(n+k)
+
+SPACE COMPLEXITY
+O(MAX ELEMENT OF ARRAY)
+'''
 
 arr = [3,2,4,3,5,6,3,3,5,4,3,2,1,3,5,4,3,2,2,5,5,6,6]
 
