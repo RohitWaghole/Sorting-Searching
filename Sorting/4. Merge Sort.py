@@ -1,3 +1,14 @@
+# MERGE SORT
+
+'''
+TIME COMPLEXITY
+Best	-> O(n*log n)
+Worst	-> O(n*log n)
+Average	-> O(n*log n)
+
+SPACE COMPLEXITY
+O(n)
+'''
 
 def merge(arr, start, mid, end):
     
