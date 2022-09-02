@@ -3,8 +3,8 @@
 '''
 TIME COMPLEXITY
 Best	-> O(n)
-Worst	-> O(n2)
-Average	-> O(n2)
+Worst	-> O(n^2)
+Average	-> O(n^2)
 
 SPACE COMPLEXITY
 O(1)
